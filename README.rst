@@ -1,5 +1,4 @@
-Yesod
-~~~~~
+.. image:: logo.svg
 
 Yesod is a project to create very high performance containers for data science.
 
